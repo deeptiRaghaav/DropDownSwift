@@ -45,7 +45,10 @@ add
     }
 ```   
 ###### If you want simple array like -- arr = ["1","2","3","4","5","6","7","8"]
-##### so use TableUI.init(parentview: self.view, JsonValue1: arr, button1: sender) method
+##### so use 
+```
+TableUI.init(parentview: self.view, JsonValue1: arr, button1: sender) method
+```
 
 
 #### If your json is like 
