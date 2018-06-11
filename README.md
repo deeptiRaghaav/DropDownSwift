@@ -8,9 +8,8 @@ easy drop down swift
 * Swift 4.0 +
 
 
-
-
-The files needed to be included are in the **TableUI** class of this project.
+#### Manual
+The class needed to be included is **TableUI** class .
 
 
 Implement SelectedDropDown delegate , in that class where you want to show drop down.
